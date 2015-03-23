@@ -1,0 +1,400 @@
+# Copyright (C) 2015 Brozzme Cookie notification
+# This file is distributed under the same license as the Brozzme Cookie notification package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme Cookie notification 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/brozzme-cookie-notification\n"
+"POT-Creation-Date: 2015-03-22 13:53:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-03-22 15:59+0100\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: Benoît Faure <dev@brozme.com>\n"
+"Language-Team: Benoît Faure <dev@brozzme.com>\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: brozzme-cookie-notification.php:51
+msgid "This website uses cookies to offer you a better browsing experience. Find out more, how we use these cookies on the private policy link"
+msgstr "Ce site utilise des cookies pour vous offrir une meilleure expérience de navigation. Pour en savoir plus, comment nous utilisons ces cookies sur le lien de la politique privée"
+
+#: brozzme-cookie-notification.php:52 brozzme-cookie-notification.php:102
+msgid "By using our website, you agree to the use of our cookies."
+msgstr "En utilisant notre site, vous acceptez l'utilisation de nos cookies."
+
+#: brozzme-cookie-notification.php:53
+msgid "We use cookies to give the best possible experience on our website."
+msgstr "Nous utilisons les cookies pour donner la meilleure expérience possible sur notre site."
+
+#: brozzme-cookie-notification.php:54
+msgid "Cookies on this site: Find out more about our cookies. If you continue to browse our site you are consenting on their use."
+msgstr "Les cookies de ce site: En savoir plus sur nos cookies. Si vous continuez à parcourir notre site, vous consentez à leur utilisation."
+
+#: brozzme-cookie-notification.php:57
+msgid "To give you the best possible experience this site uses cookie, Continuing to use this website you agree to use of cookies."
+msgstr "Pour vous fournir la meilleure expérience de navigation, ce site utilise des cookies. En continuant de naviguer sur ce site, vous acceptez l'utilisation des cookies."
+
+#: brozzme-cookie-notification.php:59 brozzme-cookie-notification.php:149
+msgid "Private policy"
+msgstr "Vie privée"
+
+#: brozzme-cookie-notification.php:60
+msgid "Cookie policy"
+msgstr "politique de Cookie"
+
+#: brozzme-cookie-notification.php:61
+msgid "Read more"
+msgstr "Lire plus"
+
+#: brozzme-cookie-notification.php:62
+msgid "Term of use"
+msgstr "Condition d'utilisation"
+
+#: brozzme-cookie-notification.php:63
+msgid "Find out more here"
+msgstr "En savoir plus"
+
+#: brozzme-cookie-notification.php:66 brozzme-cookie-notification.php:116
+msgid "Ok"
+msgstr "Ok"
+
+#: brozzme-cookie-notification.php:67
+msgid "Continue"
+msgstr "Continuer"
+
+#: brozzme-cookie-notification.php:68
+msgid "X"
+msgstr "X"
+
+#: brozzme-cookie-notification.php:70
+msgid "Decline"
+msgstr "Refuser"
+
+#: brozzme-cookie-notification.php:71 includes/bcn_options_settings.php:384
+#: includes/bcn_options_settings.php:455 includes/bcn_options_settings.php:466
+#: includes/bcn_options_settings.php:532 includes/bcn_options_settings.php:598
+#: includes/bcn_options_settings.php:682 includes/bcn_options_settings.php:726
+#: includes/bcn_options_settings.php:735 includes/bcn_options_settings.php:767
+#: includes/bcn_options_settings.php:776 includes/bcn_options_settings.php:785
+msgid "No"
+msgstr "Non"
+
+#: brozzme-cookie-notification.php:72
+msgid "I do not want"
+msgstr "Je ne veux pas"
+
+#: brozzme-cookie-notification.php:244
+msgid "Cookie notification"
+msgstr "Réglages Cookie Notification"
+
+#: brozzme-cookie-notification.php:272
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/bcn_options_settings.php:32
+msgid "General settings option for Cookie Notification by Brozzme"
+msgstr "Réglages des options générales pour Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:38
+msgid "Enable Cookie Notification"
+msgstr "Activer Cookie Notification"
+
+#: includes/bcn_options_settings.php:45
+msgid "Notification text"
+msgstr "Texte de notification"
+
+#: includes/bcn_options_settings.php:52
+msgid "Default template"
+msgstr "Modèle par défaut"
+
+#: includes/bcn_options_settings.php:59
+msgid "Choose background color"
+msgstr "Choisir la couleur de fond"
+
+#: includes/bcn_options_settings.php:66
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: includes/bcn_options_settings.php:73
+msgid "Text font size"
+msgstr "Taille de la police du texte"
+
+#: includes/bcn_options_settings.php:80
+msgid "Apply border radius to buttons link"
+msgstr "Appliquer des bords arrondis aux boutons de liens"
+
+#: includes/bcn_options_settings.php:87
+msgid "Add close button"
+msgstr "Ajouter un bouton de fermeture"
+
+#: includes/bcn_options_settings.php:103 includes/bcn_options_settings.php:189
+#: includes/bcn_options_settings.php:260
+msgid "Settings options for Cookie Notification by Brozzme"
+msgstr "Options de paramètres pour Cookie Notification by Brozzme"
+
+#: includes/bcn_options_settings.php:110
+msgid "Accept button text"
+msgstr "Texte du bouton d'acceptation"
+
+#: includes/bcn_options_settings.php:117
+msgid "Accept button background color"
+msgstr "Couleur de fond du bouton d'acceptation"
+
+#: includes/bcn_options_settings.php:124
+msgid "Accept button color"
+msgstr "Couleur du texte du bouton d'acceptation"
+
+#: includes/bcn_options_settings.php:131
+msgid "Accept button hover background color"
+msgstr "Couleur du fond au survol"
+
+#: includes/bcn_options_settings.php:138
+msgid "Accept button hover color"
+msgstr "Couleur du texte au survol"
+
+#: includes/bcn_options_settings.php:145
+msgid "Enable Decline button"
+msgstr "Activer le bouton pour refus"
+
+#: includes/bcn_options_settings.php:152
+msgid "Decline button text"
+msgstr "Texte du bouton de refus"
+
+#: includes/bcn_options_settings.php:159
+msgid "Decline button background color"
+msgstr "Couleur de fond du bouton de refus"
+
+#: includes/bcn_options_settings.php:166
+msgid "Decline text color"
+msgstr "Couleur du texte pour le bouton de refus"
+
+#: includes/bcn_options_settings.php:173
+msgid "Decline button hover background color"
+msgstr "Couleur de fond du bouton de refus au survol"
+
+#: includes/bcn_options_settings.php:180
+msgid "Decline text hover color"
+msgstr "Couleur du texte au survol"
+
+#: includes/bcn_options_settings.php:196
+msgid "Enable policy button"
+msgstr "Activer le bouton de politique de vie privée"
+
+#: includes/bcn_options_settings.php:203
+msgid "Text of the policy (read more) button"
+msgstr "Texte pour le bouton politique (lire plus)"
+
+#: includes/bcn_options_settings.php:210
+msgid "Policy button color"
+msgstr "Couleur du bouton politique de vie privée"
+
+#: includes/bcn_options_settings.php:217
+msgid "Policy button background color"
+msgstr "Couleur de fond du bouton de politique de vie privée"
+
+#: includes/bcn_options_settings.php:224
+msgid "Hover policy button color"
+msgstr "Couleur du bouton de politique de vie privée au survol"
+
+#: includes/bcn_options_settings.php:231
+msgid "Hover policy button background color"
+msgstr "Couleur de fond du bouton de politique de vie privée au survol"
+
+#: includes/bcn_options_settings.php:238
+msgid "Url of the read more link"
+msgstr "Url du lien pour la politique de vie privée"
+
+#: includes/bcn_options_settings.php:245
+msgid "Info about Private policy page"
+msgstr "Informations à propos de la page de politique de vie privée"
+
+#: includes/bcn_options_settings.php:252
+msgid "Delete private policy page on desactivation"
+msgstr "Supprimer la page de politique de vie privée quand le plugin est désactivé"
+
+#: includes/bcn_options_settings.php:267
+msgid "Fixed"
+msgstr "Fixe"
+
+#: includes/bcn_options_settings.php:274
+msgid "Bottom"
+msgstr "En bas"
+
+#: includes/bcn_options_settings.php:281
+msgid "Effect"
+msgstr "Effet"
+
+#: includes/bcn_options_settings.php:289
+msgid "Element to append/prepend cookie to"
+msgstr "Element à ajouter au"
+
+#: includes/bcn_options_settings.php:296
+msgid "Set to true for bar HTML to be placed at base of website"
+msgstr "Mettre la valeur sur Oui pour que le html soit placer à la base du website"
+
+#: includes/bcn_options_settings.php:304
+msgid "Z-index"
+msgstr ""
+
+#: includes/bcn_options_settings.php:312
+msgid "Cookies settings for Cookie Notification by Brozzme"
+msgstr "Paramètres de réglages des cookies pour Cookie notification by Brozzme"
+
+#: includes/bcn_options_settings.php:318
+msgid "Lifetime of the cookie"
+msgstr "Durée de vie du cookie"
+
+#: includes/bcn_options_settings.php:325
+msgid "Set to true for cookies to be accepted automatically. Banner still shows"
+msgstr "Mettre sur Oui pour que les cookies soient accepter automatiquement. Barre toujours visible"
+
+#: includes/bcn_options_settings.php:332
+msgid "Set to true to silently accept cookies when visitor moves to another page"
+msgstr "Mettre sur Oui pour que les cookies soient accepter quand le visiteur va sur une autre page"
+
+#: includes/bcn_options_settings.php:339
+msgid "Force cookieBar to show regardless of user cookie preference"
+msgstr "Forcer l'apparition de la barre malgré les préférences de cookie de l'utilisateur"
+
+#: includes/bcn_options_settings.php:350
+msgid "Help for Cookie Notification by Brozzme"
+msgstr "Aide"
+
+#: includes/bcn_options_settings.php:356
+msgid "Help"
+msgstr "Aide"
+
+#: includes/bcn_options_settings.php:383 includes/bcn_options_settings.php:454
+#: includes/bcn_options_settings.php:465 includes/bcn_options_settings.php:531
+#: includes/bcn_options_settings.php:597 includes/bcn_options_settings.php:681
+#: includes/bcn_options_settings.php:715 includes/bcn_options_settings.php:725
+#: includes/bcn_options_settings.php:734 includes/bcn_options_settings.php:766
+#: includes/bcn_options_settings.php:775 includes/bcn_options_settings.php:784
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/bcn_options_settings.php:399
+msgid "Select a message"
+msgstr "Sélectionner un message"
+
+#: includes/bcn_options_settings.php:402
+msgid "Customize the message"
+msgstr "Modifier le message"
+
+#: includes/bcn_options_settings.php:413
+msgid "Default"
+msgstr "Défaut"
+
+#: includes/bcn_options_settings.php:414
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: includes/bcn_options_settings.php:482 includes/bcn_options_settings.php:547
+#: includes/bcn_options_settings.php:614
+msgid "Select a button message"
+msgstr "Sélectionner un message pour le bouton d'acceptation"
+
+#: includes/bcn_options_settings.php:485 includes/bcn_options_settings.php:617
+msgid "Customize the button message"
+msgstr "Personnaliser le message du bouton"
+
+#: includes/bcn_options_settings.php:550
+msgid "Customize the decline button message"
+msgstr "Personnaliser le message du bouton de refus"
+
+#: includes/bcn_options_settings.php:662
+msgid "i.e:"
+msgstr "Par exemple : "
+
+#: includes/bcn_options_settings.php:670
+msgid "Display"
+msgstr "Afficher"
+
+#: includes/bcn_options_settings.php:670
+msgid "Modify"
+msgstr "Modifier"
+
+#: includes/bcn_options_settings.php:671
+msgid "Put the new page ID for your private policy rules, according to the url of the read more link."
+msgstr "Entrer l'ID de la nouvelle page pour la politique de vie privée, devant correspondre au lien."
+
+#: includes/bcn_options_settings.php:697
+msgid "Slide"
+msgstr "Glissé"
+
+#: includes/bcn_options_settings.php:698
+msgid "Fade"
+msgstr "Estompage"
+
+#: includes/bcn_options_settings.php:699
+msgid "Hide"
+msgstr "Caché"
+
+#: includes/bcn_options_settings.php:716
+msgid "No (default)"
+msgstr "Non (Par défaut)"
+
+#: includes/bcn_options_settings.php:717
+msgid "Set to Yes, HTML will be placed at base of website, actual position may change according to CSS"
+msgstr "Mis sur Oui, le HTML sera placé à la base du site, la position actuelle pourrait changé selon le CSS"
+
+#: includes/bcn_options_settings.php:755
+msgid "Default (1 year)"
+msgstr "Par défaut (1 an)"
+
+#: includes/bcn_options_settings.php:756
+msgid "190 days"
+msgstr "190 jours"
+
+#: includes/bcn_options_settings.php:757
+msgid "90 days"
+msgstr "90 jours"
+
+#: includes/bcn_options_settings.php:758
+msgid "30 days"
+msgstr "30 jours"
+
+#: includes/bcn_options_settings.php:796
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: includes/bcn_options_settings.php:802
+msgid "Manage accept button settings for "
+msgstr "Gestion des réglages du bouton d'acceptation"
+
+#: includes/bcn_options_settings.php:807
+msgid "Manage policy settings for "
+msgstr "Gestion des réglages pour la politique de vie privée"
+
+#: includes/bcn_options_settings.php:813
+msgid "Help / FAQ "
+msgstr "Aide / FAQ"
+
+#: includes/bcn_options_settings.php:819
+msgid "Manage Cookie Notification options settings "
+msgstr "Gestion des réglages généraux de Cookie Notification"
+
+#: includes/bcn_options_settings.php:823
+msgid "Manage Cookie Notification cookies settings "
+msgstr "Gestion des réglages des cookies de Cookie Notification"
+
+#. Plugin Name of the plugin/theme
+msgid "Brozzme Cookie notification"
+msgstr "Brozzme Cookie notification"
+
+#. Plugin URI of the plugin/theme
+msgid "http://brozzme.com/cookie-notifiation"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Une implémentation simple de la loi sur les cookies pour WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benoît Faure"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://brozzme.com"
+msgstr ""

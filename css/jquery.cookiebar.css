@@ -1,0 +1,101 @@
+.admin-bar #cookie-bar {
+    top: 32px;
+}
+.admin-bar #cookie-bar.fixed{
+    top: 32px;
+}
+.admin-bar #cookie-bar.fixed.bottom{
+
+}
+#cookie-bar {
+    background:#111111;
+    line-height:24px;
+    width:100%;
+    color:#eeeeee;
+    text-align:center;
+    padding:3px 0;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 0.8em;
+    min-height:40px;
+}
+#cookie-bar.fixed {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+}
+#cookie-bar.basic {
+    position: relative;
+    top:0;
+    left:0;
+    width:100%;
+}
+#cookie-bar.fixed.bottom {
+    position:fixed;
+    bottom:0;
+    top:auto;
+}
+
+#cookie-bar p {
+    margin:0;
+    padding:0;
+}
+#cookie-bar a {
+    color:#ffffff;
+    display:inline-block;
+    border-radius:3px;
+    text-decoration:none;
+    padding:0 6px;
+    margin-top:2px;
+    margin-left:8px;
+}
+#cookie-bar .closethis a {
+    color:#ffffff;
+    display:inline-block;
+    border-radius:3px;
+    text-decoration:none;
+    padding:0 0px;
+    margin-left:8px;
+}
+
+#cookie-bar .cb-enable {
+    background:#007700;
+    margin-top:2px;
+    margin-left:8px
+    padding:0px 6px;
+}
+#cookie-bar .cb-enable:hover {background:#009900;}
+#cookie-bar .cb-disable {background:#990000;}
+#cookie-bar .cb-disable:hover {background:#bb0000;}
+#cookie-bar .cb-policy {background:#0033bb;}
+#cookie-bar .cb-policy:hover {background:#0055dd;cursor: help;}
+
+.resp-break {
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .admin-bar #cookie-bar {
+        top: 46px;
+    }
+    .admin-bar #cookie-bar.fixed{
+        top: 46px;
+    }
+    .admin-bar #cookie-bar.fixed.bottom{
+
+    }
+    #cookie-bar.fixed {
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+    }
+    #cookie-bar p {
+        margin:0;
+        padding:0;
+        margin-left:10px;
+    }
+    .resp-break {
+        display: block;
+    }
+}
