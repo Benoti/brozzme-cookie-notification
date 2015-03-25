@@ -884,12 +884,12 @@ function bcn_options_page(  ) {
     <?php
 
 
- $options = globalize_bcn_options_name();
+// $options = globalize_bcn_options_name();
 
         ?>
-    <pre ><?php var_dump($options);?></pre>
+<!--    <pre >--><?php //var_dump($options);?><!--</pre>-->
     <?php
-echo count($options);
+//echo count($options);
   //  echo '<h3 class="update">'.$options['bcn_notification_text'].'</h3>';
 
   //  brozzme_cookie_notification_welcome_page();
