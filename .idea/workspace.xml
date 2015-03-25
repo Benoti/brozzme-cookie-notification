@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4516c7a3-c9b4-4b28-badf-112a8f257386" name="Default" comment="Initial release">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/bcn_options_settings.php" afterPath="$PROJECT_DIR$/includes/bcn_options_settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brozzme-cookie-notification.php" afterPath="$PROJECT_DIR$/brozzme-cookie-notification.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="f7a85271-ecf0-4453-8a64-36959c949554" name="New changelist" comment="New changelist" />
@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="brozzme-cookie-notification.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="brozzme-cookie-notification.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/brozzme-cookie-notification.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="6495">
-              <caret line="4" column="75" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="6375">
+              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -61,18 +61,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bcn_options_settings.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/includes/bcn_options_settings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4148471" vertical-offset="12318" max-vertical-offset="13545">
-              <caret line="886" column="2" selection-start-line="886" selection-start-column="2" selection-end-line="886" selection-end-column="2" />
-              <folding>
-                <element signature="e#6#810#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FrameworkCommandLineHistory">
@@ -95,8 +83,8 @@
         <option value="$PROJECT_DIR$/includes/bcn_functions.php" />
         <option value="$PROJECT_DIR$/includes/bcn_help.php" />
         <option value="$PROJECT_DIR$/includes/brozzme_cookie_notification_init.php" />
-        <option value="$PROJECT_DIR$/brozzme-cookie-notification.php" />
         <option value="$PROJECT_DIR$/includes/bcn_options_settings.php" />
+        <option value="$PROJECT_DIR$/brozzme-cookie-notification.php" />
       </list>
     </option>
   </component>
@@ -366,6 +354,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/bcn_options_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62882096" vertical-offset="12858" max-vertical-offset="13545">
+          <caret line="886" column="2" selection-start-line="886" selection-start-column="2" selection-end-line="886" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#810#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/front-end-cookie-style.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="724">
@@ -386,19 +384,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/brozzme-cookie-notification.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="6495">
-          <caret line="4" column="75" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="6375">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/bcn_options_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4148471" vertical-offset="12318" max-vertical-offset="13545">
-          <caret line="886" column="2" selection-start-line="886" selection-start-column="2" selection-end-line="886" selection-end-column="2" />
-          <folding>
-            <element signature="e#6#810#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

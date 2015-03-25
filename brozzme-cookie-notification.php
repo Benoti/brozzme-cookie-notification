@@ -8,6 +8,8 @@
  * Author URI: http://brozzme.com
  * Domain Path: /languages
  * Text Domain: brozzme-cookie-notification
+ * GitHub Plugin URI: https://github.com/Benoti/brozzme-cookie-notification
+ * GitHub Branch: master
  *
  * Settings options 1: b_cookie_general_settings
  * Settings options 2: b_cookie_notification_accept_settings
@@ -17,9 +19,6 @@
  *
  * settings array : array('b_cookie_general_settings', 'b_cookie_notification_accept_settings', 'b_cookie_notification_policy_settings', 'b_cookie_notification_display_settings');
  */
-
-
-
 
 //ini_set('display_errors', 1);
 defined( 'ABSPATH' ) OR exit;
@@ -84,7 +83,6 @@ function brozzme_cookie_notification_plugin_activation(){
 * Settings options 1: b_cookie_general_settings
 * array( bcn_enable_cookie, bcn_template, bcn_background_color, bcn_text_color, bcn_notification_text, bcn_policyButton,bcn_policyButton_text, bcn_acceptText, )
 *
-
 */
 
     if(!get_option('b_cookie_general_settings')) {
@@ -159,7 +157,6 @@ function brozzme_cookie_notification_plugin_activation(){
 
     }
 
-
 /*
 * Settings options 4: b_cookie_notification_display_settings
 */
@@ -228,8 +225,6 @@ function brozzme_cookie_notification_plugin_deactivation(){
      delete_option($option_name);
         //  delete_option('b_cookie_general_settings');
     }
-
-
 
 }
 
@@ -400,14 +395,11 @@ function brozzme_bcn_add_color_picker( $hook ) {
     }
 }
 
-
 //add_action('the_content', 'noticecookie_view');
 
 function noticecookie_view(){
 
     print_r($_COOKIE);
-
-
 
 }
 
